@@ -4,7 +4,7 @@
 Check [examples](examples) folder. You'll need to `go get github.com/mitchellh/mapstructure`.
 
 ## How was this generated?
-Check [this](https://github.com/dgkanatsios/SDKGenerator/tree/golang) branch.
+Check [this](https://github.com/computerrivet/SDKGenerator/tree/golang) branch.
 
 ## Points
 

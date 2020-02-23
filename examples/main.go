@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	playfab "github.com/dgkanatsios/playfabsdk-go/sdk"
-	client "github.com/dgkanatsios/playfabsdk-go/sdk/client"
+	playfab "github.com/computerrivet/playfabsdk-go/sdk"
+	client "github.com/computerrivet/playfabsdk-go/sdk/client"
 )
 
 func main() {

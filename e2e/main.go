@@ -8,11 +8,11 @@ import (
 	"os"
 	"strconv"
 
-	playfab "github.com/dgkanatsios/playfabsdk-go/sdk"
-	"github.com/dgkanatsios/playfabsdk-go/sdk/authentication"
-	"github.com/dgkanatsios/playfabsdk-go/sdk/client"
-	"github.com/dgkanatsios/playfabsdk-go/sdk/data"
-	"github.com/dgkanatsios/playfabsdk-go/sdk/server"
+	playfab "github.com/computerrivet/playfabsdk-go/sdk"
+	"github.com/computerrivet/playfabsdk-go/sdk/authentication"
+	"github.com/computerrivet/playfabsdk-go/sdk/client"
+	"github.com/computerrivet/playfabsdk-go/sdk/data"
+	"github.com/computerrivet/playfabsdk-go/sdk/server"
 )
 
 const (

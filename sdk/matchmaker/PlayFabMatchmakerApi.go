@@ -5,7 +5,7 @@ package matchmaker
 import (
 	"encoding/json"
 
-	playfab "github.com/dgkanatsios/playfabsdk-go/sdk"
+	playfab "github.com/computerrivet/playfabsdk-go/sdk"
 
 	"github.com/mitchellh/mapstructure"
 )
